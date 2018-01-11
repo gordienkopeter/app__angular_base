@@ -1,0 +1,8 @@
+.spinner {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  left: calc(50% - 50px);
+  top: calc(50% - 50px);
+}
