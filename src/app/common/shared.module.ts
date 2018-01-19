@@ -20,6 +20,8 @@ import {SpinnerComponent} from './components/spinner/spinner.component';
   ],
   providers: []
 })
-
+/**
+ * This class needs for imports/exports and declaration common modules, components and directives
+ */
 export class SharedModule {
 }

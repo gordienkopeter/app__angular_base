@@ -1,7 +1,11 @@
 import {NgModule} from '@angular/core';
-import {Routes, RouterModule} from '@angular/router';
+import {RouterModule, Route} from '@angular/router';
 
-export const routes: Routes = [];
+/**
+ * This array describes the application routes
+ * @type {Route[]}
+ */
+export const routes: Array<Route> = [];
 
 @NgModule({
   imports: [RouterModule.forRoot(routes)],

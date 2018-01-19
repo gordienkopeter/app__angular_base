@@ -69,4 +69,8 @@ import {
   ],
   declarations: []
 })
+
+/**
+ * This class exports all module angular material design
+ */
 export class MaterialModule { }
